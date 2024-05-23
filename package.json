@@ -4,9 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-  },
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js",
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -17,6 +17,6 @@
     "mongoose": "^8.3.4",
     "nanoid": "^5.0.7",
     "shortid": "^2.2.16",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
   }
 }
